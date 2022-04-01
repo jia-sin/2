@@ -1,0 +1,7 @@
+int a = 5;
+int b = 3;
+if (a-b > 2)
+{Console.WriteLine("The anser is bigger then 2");}
+
+else if (a-b < 2)
+{Console.WriteLine("The anser is smaller then 2");}
